@@ -2,9 +2,11 @@ RENCANA KONTEN SAFWAN
 - Javascript
   * ES6
   * Framework JS
-    > Angular
+    > Vue
     > React
+-Struktur data dasar
 - PHP Framework
-  * Laravel
+ * Laravel
 - Interview
 - Vlogs
+- Python
