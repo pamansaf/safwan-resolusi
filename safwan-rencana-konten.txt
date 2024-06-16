@@ -4,5 +4,7 @@ RENCANA KONTEN SAFWAN
   * Framework JS
 -Struktur data dasar
 - PHP Framework
+ * Laravel
 - Interview
 - Vlogs
+- Python
