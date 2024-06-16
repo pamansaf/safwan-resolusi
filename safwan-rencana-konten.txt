@@ -2,6 +2,7 @@ RENCANA KONTEN SAFWAN
 - Javascript
   * ES6
   * Framework JS
+-Struktur data dasar
 - PHP Framework
 - Interview
 - Vlogs
