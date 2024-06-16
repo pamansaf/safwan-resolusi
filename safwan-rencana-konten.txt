@@ -1,0 +1,7 @@
+RENCANA KONTEN SAFWAN
+- Javascript
+  * ES6
+  * Framework JS
+- PHP Framework
+- Interview
+- Vlogs
