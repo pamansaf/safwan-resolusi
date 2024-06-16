@@ -2,6 +2,8 @@ RENCANA KONTEN SAFWAN
 - Javascript
   * ES6
   * Framework JS
+    > Vue
+    > React
 -Struktur data dasar
 - PHP Framework
  * Laravel
